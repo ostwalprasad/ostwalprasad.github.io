@@ -1,0 +1,33 @@
+# Dependencies
+markdown:         kramdown
+#highlighter:      pygments.rb
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+gem: [jekyll-paginate, jekyll-gists,gist]
+
+# Setup
+title:            Prasad Ostwal
+tagline:          'Prasad Ostwal blog'
+description:      'My personal blog of tech and life'
+url:              http://hyde.getpoole.com
+baseurl:          /
+imageurl: /
+
+author:
+  name:           'Prasad Ostwal'
+  url:            https://twitter.com/ostwalprasad
+
+paginate:         5
+
+# Custom vars
+version:          3.2.2
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  
+
+
+github:
+  repo:           https://github.com/ostwalprasad
