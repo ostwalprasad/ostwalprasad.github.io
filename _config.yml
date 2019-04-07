@@ -15,14 +15,19 @@ url:              http://hyde.getpoole.com
 baseurl:          /
 imageurl: /
 
+
 author:
   name:           'Prasad Ostwal'
   url:            https://twitter.com/ostwalprasad
 
 paginate:         5
 
+github_username: ostwalprasad
+linkedin_username: ostwalprasad
+twitter_username: ostwalprasad
+email: prasadostwal@gmail.com
 # Custom vars
-version:          3.2.2
+version:          1.0.3
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
