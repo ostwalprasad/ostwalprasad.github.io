@@ -57,11 +57,11 @@ Tweeks to vanilla hyde:
 	5. Rename that jupyter notebook to post's filename. Like this: YYYY-MM-DD-postname.ipynb (Nothing else, just standardizes fromat for myself)
 	
 	
-##Steps to add page:
+## Steps to add page:
 	1. Just copy any old page from root folder. Rename it and change it's yaml content
 	
 	
-##Steps to start jekylls locally
+## Steps to start jekylls locally
 	1. Assuming Jekylls is installed properly from [here](https://jekyllrb.com/)
 	2. Open CMD. Goto ostwalprasad.github.io directory. Pull one if you don't have.
 	3. Type 'jekyll serve'. ( There's no gem file to run in this directory. Not sure why!) 
@@ -70,7 +70,7 @@ Tweeks to vanilla hyde:
 	
 
 
-##TODO:
+## TODO:
 Add disquis comments plugin
 Site not rendering properly on medium resolution. Need to check
 Google analytics tracking of subpages 
