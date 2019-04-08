@@ -1,13 +1,13 @@
 # 
 
-Powered by  [Jekyll](http://jekyllrb.com)
-Forked from [Poole/hyde]https://github.com/poole/hyde and tweeked *a lot*.
+Powered by  [Jekyll.](http://jekyllrb.com)
+Forked from [hyde](https://github.com/poole/hyde) and tweeked *a lot*.
 
 Fell free to copy/modify/distribute!
 
-##Intial Changes:
 
-Tweeks to vanilla hyde:
+
+## Initial tweeks to vanilla hyde:
 1. Changed markdown parser from 'redcarpet' to 'kramdown'.
 		Redcarpet wasn't rendering code and mathajax neatly
 		Removed relative_permalinks: true  and 'highlighter: pygments.rb'
@@ -40,13 +40,13 @@ Tweeks to vanilla hyde:
 	CNMAME: As site is hosted on Gihtub, not required
 	
 
-#Tutorials/Links for modifying:
+## Tutorials/Links for modifying:
 	[Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 	[Jekyll's](https://jekyllrb.com/)
 	[Poole/hyde](http://hyde.getpoole.com/)
 	
 
-##Steps to add posts:
+## Steps to add posts:
 	1. Copy exising post from /_posts
 	2. Erase everything except yaml info at the top
 	3. Paste markdown content under yaml header
