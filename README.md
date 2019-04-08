@@ -1,118 +1,82 @@
-# Hyde
+# 
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+Powered by  [Jekyll](http://jekyllrb.com)
+Forked from [Poole/hyde]https://github.com/poole/hyde and tweeked *a lot*.
 
-![Hyde screenshot](https://f.cloud.github.com/assets/98681/1831228/42af6c6a-7384-11e3-98fb-e0b923ee0468.png)
+Fell free to copy/modify/distribute!
 
+##Intial Changes:
 
-## Contents
+Tweeks to vanilla hyde:
+1. Changed markdown parser from 'redcarpet' to 'kramdown'.
+		Redcarpet wasn't rendering code and mathajax neatly
+		Removed relative_permalinks: true  and 'highlighter: pygments.rb'
+2. Added following plugins
+	- [jemoji](https://github.com/jekyll/jemoji)
+	- [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag)
+	- [jekyll-sitemap](https://github.com/jekyll/jekyll-sitemap)
+	
+3. Styles
+	1. Changed syntax highligher. Orignal hyde syntax css was to dull. So replaced. I don't have link to source/	
+	2. Added [font-awesome](https://github.com/FortAwesome/Font-Awesome) stylesheets for rendering social media iconn
+	3. Modified hyde.css and poole.css to adjusts sidebar fonts, paddings and width
+	4. Replaced orignal favicon by mine.
+	
+4. Latex
+	latex is not supported directly, hence add mathajax.html in _INCLUDES folder to render latex text
+	
+5. Analytics
+	- Added google_analytics.html snippet in _INCLUDES folder
+	- included same html in head
+	
+6. Posts
+	- Deleted orignal posts
+	
+7. New:
+	'jupyter' contains notebooks
+	'images' contains site imgages refered from posts
+	
+8. Removed:
+	CNMAME: As site is hosted on Gihtub, not required
+	
 
-- [Usage](#usage)
-- [Options](#options)
-  - [Sidebar menu](#sidebar-menu)
-  - [Sticky sidebar content](#sticky-sidebar-content)
-  - [Themes](#themes)
-  - [Reverse layout](#reverse-layout)
-- [Development](#development)
-- [Author](#author)
-- [License](#license)
+#Tutorials/Links for modifying:
+	[Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+	[Jekyll's](https://jekyllrb.com/)
+	[Poole/hyde](http://hyde.getpoole.com/)
+	
 
-
-## Usage
-
-Hyde is a theme built on top of [Poole](https://github.com/poole/poole), which provides a fully furnished Jekyll setup—just download and start the Jekyll server. See [the Poole usage guidelines](https://github.com/poole/poole#usage) for how to install and use Jekyll.
-
-
-## Options
-
-Hyde includes some customizable options, typically applied via classes on the `<body>` element.
-
-
-### Sidebar menu
-
-Create a list of nav links in the sidebar by assigning each Jekyll page the correct layout in the page's [front-matter](http://jekyllrb.com/docs/frontmatter/).
-
-```
----
-layout: page
-title: About
----
-```
-
-**Why require a specific layout?** Jekyll will return *all* pages, including the `atom.xml`, and with an alphabetical sort order. To ensure the first link is *Home*, we exclude the `index.html` page from this list by specifying the `page` layout.
-
-
-### Sticky sidebar content
-
-By default Hyde ships with a sidebar that affixes it's content to the bottom of the sidebar. You can optionally disable this by removing the `.sidebar-sticky` class from the sidebar's `.container`. Sidebar content will then normally flow from top to bottom.
-
-```html
-<!-- Default sidebar -->
-<div class="sidebar">
-  <div class="container sidebar-sticky">
-    ...
-  </div>
-</div>
-
-<!-- Modified sidebar -->
-<div class="sidebar">
-  <div class="container">
-    ...
-  </div>
-</div>
-```
-
-
-### Themes
-
-Hyde ships with eight optional themes based on the [base16 color scheme](https://github.com/chriskempson/base16). Apply a theme to change the color scheme (mostly applies to sidebar and links).
-
-![Hyde in red](https://f.cloud.github.com/assets/98681/1831229/42b0b354-7384-11e3-8462-31b8df193fe5.png)
-
-There are eight themes available at this time.
-
-![Hyde theme classes](https://f.cloud.github.com/assets/98681/1817044/e5b0ec06-6f68-11e3-83d7-acd1942797a1.png)
-
-To use a theme, add anyone of the available theme classes to the `<body>` element in the `default.html` layout, like so:
-
-```html
-<body class="theme-base-08">
-  ...
-</body>
-```
-
-To create your own theme, look to the Themes section of [included CSS file](https://github.com/poole/hyde/blob/master/public/css/hyde.css). Copy any existing theme (they're only a few lines of CSS), rename it, and change the provided colors.
-
-### Reverse layout
-
-![Hyde with reverse layout](https://f.cloud.github.com/assets/98681/1831230/42b0d3ac-7384-11e3-8d54-2065afd03f9e.png)
-
-Hyde's page orientation can be reversed with a single class.
-
-```html
-<body class="layout-reverse">
-  ...
-</body>
-```
+##Steps to add posts:
+	1. Copy exising post from /_posts
+	2. Erase everything except yaml info at the top
+	3. Paste markdown content under yaml header
+	4. Paste related images in /images/px folder where x stands for pot number
+	5. Change images/assets references like this <img src="/images/px/filename.png">
+	6. Save post with given filename format: YYYY-MM-DD-postname.markdown
+	4. To refer jupytyer notebook in post, place jupyter notebook in /jupyterbooks folder in root
+	5. Rename that jupyter notebook to post's filename. Like this: YYYY-MM-DD-postname.ipynb (Nothing else, just standardizes fromat for myself)
+	
+	
+##Steps to add page:
+	1. Just copy any old page from root folder. Rename it and change it's yaml content
+	
+	
+##Steps to start jekylls locally
+	1. Assuming Jekylls is installed properly from [here](https://jekyllrb.com/)
+	2. Open CMD. Goto ostwalprasad.github.io directory. Pull one if you don't have.
+	3. Type 'jekyll serve'. ( There's no gem file to run in this directory. Not sure why!) 
+	4. goto localhost:4000
+	5. Push changed to repo after changes are done.
+	
 
 
-## Development
+##TODO:
+Add disquis comments plugin
+Site not rendering properly on medium resolution. Need to check
+Google analytics tracking of subpages 
 
-Hyde has two branches, but only one is used for active development.
-
-- `master` for development.  **All pull requests should be submitted against `master`.**
-- `gh-pages` for our hosted site, which includes our analytics tracking code. **Please avoid using this branch.**
-
-
-## Author
-
-**Mark Otto**
-- <https://github.com/mdo>
-- <https://twitter.com/mdo>
-
-
+	
 ## License
-
 Open sourced under the [MIT license](LICENSE.md).
 
-<3
+
