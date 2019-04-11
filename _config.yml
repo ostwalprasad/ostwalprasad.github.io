@@ -5,13 +5,13 @@ markdown:         kramdown
 # Permalinks
 permalink:        pretty
 #relative_permalinks: true
-gem: [jekyll-paginate, jekyll-gists,gist]
+gem: [jekyll-paginate, jekyll-gists,gist,jekyll-sitemap,jekyll-seo-tag]
 
 # Setup
 title:            Prasad Ostwal
 tagline:          'Prasad Ostwal blog'
 description:      'My personal blog of tech and life'
-url:              http://hyde.getpoole.com
+url:              http://ostwalprasad.github.io
 baseurl:          /
 imageurl: /
 
@@ -28,9 +28,13 @@ twitter_username: ostwalprasad
 email: prasadostwal@gmail.com
 # Custom vars
 version:          1.0.3
+
+disqus:
+    shortname: "ostwalprasad-github-io"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
   
 
 
