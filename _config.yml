@@ -3,7 +3,7 @@ markdown:         kramdown
 #highlighter:      pygments.rb
 
 # Permalinks
-permalink:        pretty
+permalink:        none
 #relative_permalinks: true
 gem: [jekyll-paginate, jekyll-gists,gist,jekyll-sitemap,jekyll-seo-tag,jemoji]
 

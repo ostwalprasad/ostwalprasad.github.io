@@ -4,6 +4,9 @@ title:  "Polynomial regression using statsmodel"
 date:   2019-01-06 13:08:24 +0530
 comments: true
 description: "Polynomial regression using statsmodel and python"
+author: "Prasad Ostwal"
+category: machine-learning
+tags: [machine learning,regression,scikit-learn,statsmodel]
 ---
 
 

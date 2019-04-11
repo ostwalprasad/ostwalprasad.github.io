@@ -23,7 +23,7 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/ostwalprasad/) or at [
 
 Thanks for visiting!
 
-<hr size="6" width="100%" align="left" color="black">
-I've built this site using Jekyll with [Poole/Hyde](https://github.com/poole/hyde) and hosted with :heart: on [Github](https://github.com/ostwalprasad/ostwalprasad.github.io). 
+<hr size="5" width="100%" align="left" color="black">
+This site was built using Jekyll with [Poole/Hyde](https://github.com/poole/hyde) and hosted with :heart: on [Github](https://github.com/ostwalprasad/ostwalprasad.github.io). 
 
 
