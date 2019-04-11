@@ -27,10 +27,22 @@
 
 /*
  * Global resets
- *
+ *	
  * Update the foundational and global aspects of the page.
  */
-
+.img-circle {
+    border-radius: 1000%;
+}
+img.emoji {
+    display: inline-block;
+    left: 0;
+    transform: none;
+    width: 20px;
+    height: 20px;
+    vertical-align: text-top;
+    padding: 0;
+    margin: 0;
+}
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }

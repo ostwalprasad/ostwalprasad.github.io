@@ -436,11 +436,7 @@ plt.show()
 You can find above Jupyter notebook [here](https://github.com/ostwalprasad/ostwalprasad.github.io/blob/master/jupyterbooks/2019-01-20-PCA using python.ipynb)
 
 
-Thanks for reading!
-
-
 ## Interesing reads about PCA:
-
 
 * [http://setosa.io/ev/principal-component-analysis/](http://setosa.io/ev/principal-component-analysis)
 * [https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c](https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c)

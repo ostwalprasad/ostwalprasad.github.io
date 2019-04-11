@@ -3,12 +3,27 @@ layout: page
 title: About Me
 ---
 
+<br /> 
+<img class="img-circle" src="/public/prasad.jpg" width="150">
+
 <p class="message">
- Engineering isn't about perfect solutions; it's about doing the best you can with available resources
+ Engineering isn't about perfect solutions; <br />
+ it's about doing the best you can with available resources.
 </p>
 
-Connect me on Linkedin
 
-This site was forked from [Poole/Hyde](https://github.com/poole/hyde) and hosted with :heart: on [Github](https://github.com)
+I was always attracted to *things*. My bachelors in electronics led a way to 'Internet of *Things*' where I enjoyed designing connected smart devices on large scale. 
+During this, I understood the potential of data and ways to exploit it.
+Currently, I'm working towards analysing and predicting data from *things* (aka Machine Learning).
+<br /> 
+<br /> 
+Besides tech, I'm an avid map-reader, aviation enthusiast and guy who likes to automize everything.
 
-Thanks for reading!
+Connect with me on [Linkedin](https://www.linkedin.com/in/ostwalprasad/) or at [prasadostwal@gmail.com](mailto:prasadostwal@gmail.com)
+
+Thanks for visiting!
+
+<hr size="6" width="100%" align="left" color="black">
+I've built this site using Jekyll with [Poole/Hyde](https://github.com/poole/hyde) and hosted with :heart: on [Github](https://github.com/ostwalprasad/ostwalprasad.github.io). 
+
+

@@ -276,6 +276,3 @@ plt.legend(loc='upper left')
 ### Source
 
 You can find above Jupyter notebook [here](https://github.com/ostwalprasad/ostwalprasad.github.io/blob/master/jupyterbooks/2019-01-10-Polynomial Regression using statsmodel.ipynb)
-
----
-Thanks for Reading!

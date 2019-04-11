@@ -5,7 +5,7 @@ markdown:         kramdown
 # Permalinks
 permalink:        pretty
 #relative_permalinks: true
-gem: [jekyll-paginate, jekyll-gists,gist,jekyll-sitemap,jekyll-seo-tag]
+gem: [jekyll-paginate, jekyll-gists,gist,jekyll-sitemap,jekyll-seo-tag,jemoji]
 
 # Setup
 title:            Prasad Ostwal
@@ -36,6 +36,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+  - jemoji
   
 
 
