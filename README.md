@@ -64,7 +64,7 @@ Fell free to copy/modify/distribute!
 ## Steps to start jekylls locally
 	1. Assuming Jekylls is installed properly from [here](https://jekyllrb.com/)
 	2. Open CMD. Goto ostwalprasad.github.io directory. Pull one if you don't have.
-	3. Type 'jekyll serve'. ( There's no gem file to run in this directory. Not sure why!) 
+	3. Type 'jekyll serve'. ( There's no gem file to run in this directory. Not sure why!)  . Or 'bundle exec jekyll serve' if gemfile is stored
 	4. goto localhost:4000
 	5. Push changed to repo after changes are done.
 	
