@@ -258,7 +258,8 @@ pm.plots.plot_posterior(trace)
 
 
 ### Forest Plots
-Generates a “forest plot” of 100*(1-alpha)% credible intervals from a trace or list of traces.
+Generates a “forest plot” of 100*(1-alpha)% credible intervals from a trace or list of traces. 
+It also shows R-hat - The Gelman and Rubin diagnostic which is used to check the convergence of multiple mcmc chains run in parallel
 
 
 ```python
@@ -275,7 +276,10 @@ pm.plots.forestplot(trace)
 <img src="/images/p4/output_24_1.png">
 
 ### Plotting energy distributions
-Plot energy transition distribution and marginal energy distribution in order to diagnose poor exploration by HMC algorithms.
+Plot energy transition distribution and marginal energy distribution in order to diagnose poor exploration by HMC algorithms. 
+For high-dimensional models it becomes cumbersome to look at all parameter’s traces, hence Energy plot is used to assess problems of convergence.
+
+If you have the energy transition distribution much more narrow than energy distribution, it means you dont have enough energy to explore the whole parameter space and your posterior estimation is likely biased.
 
 
 ```python
