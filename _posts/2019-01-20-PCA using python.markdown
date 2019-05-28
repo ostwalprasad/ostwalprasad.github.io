@@ -1,22 +1,17 @@
 ---
-title: 'Principal Component Analysis Visualization '
-date: 2019-01-20 14:41:57 Z
-categories:
-- machine-learning
-tags:
-- machine learning
-- regression
-- scikit-learn
-- PCA
 layout: post
-comments: true
-description: 'Principal Component Analysis Visualizations using Python '
-author: Prasad Ostwal
+title:  "Principal Component Analysis Visualization "
+date:   2019-01-20 20:11:57 +0530
+comments: true	
+description: "Principal Component Analysis Visualizations using Python "
+author: "Prasad Ostwal"
+category: machine-learning
+tags: [machine learning,regression,scikit-learn,PCA]
 ---
  
 ## Introduction
 
-PCA is a dimension reduction technique which takes set of possibly correlated variables and tranforms into linearly uncorrelated principal components. It is used to emphasize variations and bring out strong patterns in a dataset.
+PCA is  dimension reduction technique which takes set of possibly correlated variables and tranforms into linearly uncorrelated principal components. It is used to emphasize variations and bring out strong patterns in a dataset.
 
 In simple words, principal component analysis is a method of extracting important variables from a large set of variables available in a data set. It extracts low dimensional set of features from a high dimensional data set with a motive to capture as much information as possible.
 
