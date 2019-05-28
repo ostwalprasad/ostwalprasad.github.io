@@ -1,15 +1,18 @@
 ---
+title: Polynomial regression using statsmodel
+date: 2019-01-06 07:38:24 Z
+categories:
+- machine-learning
+tags:
+- machine learning
+- regression
+- scikit-learn
+- statsmodel
 layout: post
-title:  "Polynomial regression using statsmodel"
-date:   2019-01-06 13:08:24 +0530
 comments: true
-description: "Polynomial regression using statsmodel and python"
-author: "Prasad Ostwal"
-category: machine-learning
-tags: [machine learning,regression,scikit-learn,statsmodel]
+description: Polynomial regression using statsmodel and python
+author: Prasad Ostwal
 ---
-
-
 
 I've been using sci-kit learn for a while, but it is heavily abstracted for getting quick results for machine learning. Particularly, sklearn doesnt provide statistical inference of model parameters such as 'standard errors'. Statsmodel package is rich with descriptive statistics and provides number of models.
 

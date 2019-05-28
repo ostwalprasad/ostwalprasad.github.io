@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Blog
-permalink: /Blog/
+permalink: "/Blog/"
+layout: page
 ---
 
 <div >

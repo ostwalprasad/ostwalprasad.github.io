@@ -1,14 +1,17 @@
 ---
+title: 'Bayesian Linear Regression using PyMC3 '
+date: 2019-04-16 18:28:43 Z
+categories:
+- machine-learning
+tags:
+- machine learning
+- bayesian regression
+- PyMC3
 layout: post
-title:  "Bayesian Linear Regression using PyMC3 "
-date:   2019-04-16 23:58:43 +0530
 comments: true
-description: "Bayesian Linear Regression using PyMC3"
-author: "Prasad Ostwal"
-category: machine-learning
-tags: [machine learning,bayesian regression,PyMC3]
+description: Bayesian Linear Regression using PyMC3
+author: Prasad Ostwal
 ---
-
 
 ### Introduction
 

@@ -1,44 +1,43 @@
-# Dependencies
-markdown:         kramdown
-#highlighter:      pygments.rb
-
-# Permalinks
-permalink:        none
-#relative_permalinks: true
-gem: [jekyll-paginate, jekyll-gists,gist,jekyll-sitemap,jekyll-seo-tag,jemoji]
-
-# Setup
-title:            Prasad Ostwal
-tagline:          'Prasad Ostwal blog'
-description:      'My personal blog of tech and life'
-url:              http://ostwalprasad.github.io
-baseurl:          /
-imageurl: /
-
-
+---
+title: Prasad Ostwal
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+markdown: kramdown
+permalink: none
+gem:
+- jekyll-paginate
+- jekyll-gists
+- gist
+- jekyll-sitemap
+- jekyll-seo-tag
+- jemoji
+tagline: Prasad Ostwal blog
+description: My personal blog of tech and life
+url: http://ostwalprasad.github.io
+baseurl: "/"
+imageurl: "/"
 author:
-  name:           'Prasad Ostwal'
-  url:            https://twitter.com/ostwalprasad
-
-paginate:         5
-
+  name: Prasad Ostwal
+  url: https://twitter.com/ostwalprasad
+paginate: 5
 github_username: ostwalprasad
 linkedin_username: ostwalprasad
 twitter_username: ostwalprasad
 email: prasadostwal@gmail.com
-# Custom vars
-version:          1.0.3
-
+version: 1.0.3
 disqus:
-    shortname: "ostwalprasad-github-io"
+  shortname: ostwalprasad-github-io
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jemoji
-  
-
-
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-paginate
+- jemoji
 github:
-  repo:           https://github.com/ostwalprasad
+  repo: https://github.com/ostwalprasad

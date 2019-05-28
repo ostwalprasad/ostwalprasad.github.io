@@ -1,8 +1,9 @@
 ---
+title: Medium
+permalink: "/medium/"
 layout: page
-title: Medium 
-permalink: /medium/
 ---
+
 <!---
 Use Iframely for generating iframe from medium posts:  Paste medium link on below page to get snippet, then paste here
 https://iframely.com/

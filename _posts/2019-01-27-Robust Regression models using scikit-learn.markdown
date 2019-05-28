@@ -1,15 +1,18 @@
 ---
+title: 'Robust Regression models using scikit-learn '
+date: 2019-01-27 16:10:12 Z
+categories:
+- machine-learning
+tags:
+- machine learning
+- robust regression
+- scikit-learn
+- statsmodel
 layout: post
-title:  "Robust Regression models using scikit-learn "
-date:   2019-01-27 21:40:12 +0530
 comments: true
-description: "Robust Regression models using scikit-learn "
-author: "Prasad Ostwal"
-category: machine-learning
-tags: [machine learning,robust regression,scikit-learn,statsmodel]
+description: 'Robust Regression models using scikit-learn '
+author: Prasad Ostwal
 ---
-
-
 
 ## Motivation
 Simple OLS(ordinary least square regression) is susceptible to the outliers and it can be disastrous if data is contaminated with outliers. OLS can be only used if all the assumptions of data are valid; when some of the assumptions turn out to be invalid, it can perform poorly. ***Robust Regression*** provides an alternative to least square regression by lowering the restrictions on assumptions. Robust algorithms dampens the effect of outliers in order to fit majority of the data. 
