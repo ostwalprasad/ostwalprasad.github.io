@@ -8,10 +8,10 @@ author: "Prasad Ostwal"
 category: machine-learning
 tags: [machine learning,regression,scikit-learn,PCA]
 ---
-
+ 
 ## Introduction
 
-PCA is dimension reduction technique which takes set of possibly correlated variables and tranforms into linearly uncorrelated principal components. It is used to emphasize variations and bring out strong patterns in a dataset.
+PCA is a dimension reduction technique which takes set of possibly correlated variables and tranforms into linearly uncorrelated principal components. It is used to emphasize variations and bring out strong patterns in a dataset.
 
 In simple words, principal component analysis is a method of extracting important variables from a large set of variables available in a data set. It extracts low dimensional set of features from a high dimensional data set with a motive to capture as much information as possible.
 
