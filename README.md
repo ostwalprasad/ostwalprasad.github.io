@@ -3,6 +3,11 @@
 Powered by  [Jekyll.](http://jekyllrb.com)
 Forked from [hyde](https://github.com/poole/hyde) and tweeked *a lot*.
 
+## Usage
+
+This theme is based on [Hyde](https://raw.githubusercontent.com/poole/hyde) which provides a fully furnished setup.
+
+
 Fell free to copy/modify/distribute!
 
 
