@@ -1,5 +1,5 @@
 ---
-title: "Python List Slicing Cheatsheet"
+title: Python List Slicing Cheatsheet
 date: 2019-08-08 13:30:45 Z
 categories:
 - machine-learning
