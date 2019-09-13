@@ -1,5 +1,5 @@
 ---
-title: Python List Slicing Cheatsheet 🐍
+title: "Python List Slicing Cheatsheet \U0001F40D"
 date: 2019-08-08 13:30:45 Z
 categories:
 - machine-learning
@@ -13,7 +13,6 @@ comments: true
 description: Collection of List slicing patterns for Python
 author: Prasad Ostwal
 ---
-
 
 <p align="center">Collection of List slicing patterns for Python </p>
 
