@@ -17,7 +17,7 @@ author: Prasad Ostwal
 <p align="center">Collection of List slicing patterns for Python </p>
 
 
-
+<img src="/images/p5/list_image.png">
 
 ## **Notations:**
 
