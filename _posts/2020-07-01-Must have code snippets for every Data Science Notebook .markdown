@@ -192,6 +192,10 @@ kde_plots(data,save=True)
 
 I will add more snippets as an when I feel they are being used repetitively.
 
+## Source
+
+Download Jupyter notebook from [GitHub](https://github.com/ostwalprasad/ostwalprasad.github.io/blob/master/jupyterbooks/2020-07-01-Must have code snippets for every Data Science Notebook )
+
 
 
 
