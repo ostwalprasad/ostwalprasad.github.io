@@ -15,13 +15,11 @@ description: 'Must have code snippets for every Data Science Notebook'
 author: Prasad Ostwal
 ---
 
-# Must have code snippets for every Data Science Notebook
-
 I've been using Jupyter notebooks for quite a while and everytime I create a new notebook I have to write same 10-15 lines of *bare minimum* code with some visualization snippets that are mostly needed, so why not write them at once and use everytime? 
 
 I always keep this page open in web browser to quickly copy snippets while *pythoning*.
 
-So here are few must have code snippets.
+So here are few code snippets..!
 
 ## Must have Imports
 
@@ -36,7 +34,7 @@ import math
 
 ## Datasets
 
-##### Boston Housing Dataset
+##### 1. Boston Housing Dataset
 
 
 ```python
@@ -52,7 +50,7 @@ x = data.drop('price',axis=1)
 data.head(5)
 ```
 
-#### Californa Housing Dataset
+#### 2. Californa Housing Dataset
 
 
 ```python
@@ -66,7 +64,7 @@ x = data.drop('price',axis=1)
 data.head(5)
 ```
 
-Iris Dataset
+#### 3. Iris Dataset
 
 
 ```python
@@ -128,7 +126,7 @@ with open("file.txt") as file_in:
 
 ## EDA
 
-Correlation Plot
+#### 1. Correlation Plot
 
 
 ```python
@@ -156,7 +154,7 @@ def corrplot(df,save=False,title=None):
 corrplot(data,save=True,title="My Heatmap")
 ```
 
-KDE Plots
+#### 2. KDE Plots
 
 
 ```python
