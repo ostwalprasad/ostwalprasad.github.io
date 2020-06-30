@@ -1,5 +1,5 @@
 ---
-title: 'Must have code snippets for every Data Science Notebook'
+title: Must have code snippets for every Data Science Notebook
 date: 2020-07-01 12:23:12 Z
 categories:
 - machine-learning
@@ -8,10 +8,9 @@ tags:
 - python
 - scikit-learn
 - jupyter notebook
-
 layout: post
 comments: true
-description: 'Must have code snippets for every Data Science Notebook'
+description: Must have code snippets for every Data Science Notebook
 author: Prasad Ostwal
 ---
 
