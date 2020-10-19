@@ -29,4 +29,8 @@ layout: page
 
   {%- endif -%}
 
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}public/apple-touch-icon-144-precomposed.png">
+  <link rel="shortcut icon" href="{{ site.baseurl }}public/favicon.ico">
+
 </div>
