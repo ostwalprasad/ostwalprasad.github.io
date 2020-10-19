@@ -1,5 +1,5 @@
 ---
-title: Prasad Ostwal
+title: Rasik Kane
 timezone: UTC
 collections:
   posts:
@@ -17,22 +17,22 @@ gem:
 - jekyll-sitemap
 - jekyll-seo-tag
 - jemoji
-tagline: Prasad Ostwal blog
-description: My personal blog of tech and life
-url: http://ostwalprasad.github.io
+tagline: Rasik Kane blog
+description: My Blog about learning- Unlearning 
+url: http://RasikKane.github.io
 baseurl: "/"
 imageurl: "/"
 author:
-  name: Prasad Ostwal
-  url: https://twitter.com/ostwalprasad
+  name: Rasik Kane
+  url: https://twitter.com/KaneRasik
 paginate: 5
-github_username: ostwalprasad
-linkedin_username: ostwalprasad
-twitter_username: ostwalprasad
-email: prasadostwal@gmail.com
+github_username: RasikKane
+linkedin_username: rasikkane
+twitter_username: KaneRasik
+email: rasik.kane@gmail.com
 version: 1.0.3
 disqus:
-  shortname: ostwalprasad-github-io
+  shortname: RasikKane-github-io
 plugins:
 - jekyll-feed
 - jekyll-seo-tag
@@ -40,4 +40,4 @@ plugins:
 - jekyll-paginate
 - jemoji
 github:
-  repo: https://github.com/ostwalprasad
+  repo: https://github.com/RasikKane
