@@ -1,19 +1,19 @@
 ---
-title: Polynomial regression using statsmodel
+title: Data Preprocessing and descritization using scikit-learn and pandas
 date: 2020-01-06 07:38:24 Z
 categories:
 - machine-learning
 tags:
 - machine learning
-- regression
 - scikit-learn
-- statsmodel
+- normalization
+- 
 layout: post
 comments: true
-description: Polynomial regression using statsmodel and python
-author: Prasad Ostwal
+description: Data Preprocessing using scikit-learn and 
+author: Rasik Kane
 ---
-
+<!-- 
 I've been using sci-kit learn for a while, but it is heavily abstracted for getting quick results for machine learning. Particularly, sklearn doesnt provide statistical inference of model parameters such as 'standard errors'. Statsmodel package is rich with descriptive statistics and provides number of models.
 
 Let's implement Polynomial Regression using statsmodel
@@ -281,4 +281,4 @@ plt.legend(loc='upper left')
 
 ### Source
 
-You can find above Jupyter notebook [here](https://github.com/ostwalprasad/ostwalprasad.github.io/blob/master/jupyterbooks/2019-01-10-Polynomial Regression using statsmodel.ipynb)
+You can find above Jupyter notebook [here](https://github.com/ostwalprasad/ostwalprasad.github.io/blob/master/jupyterbooks/2019-01-10-Polynomial Regression using statsmodel.ipynb) -->

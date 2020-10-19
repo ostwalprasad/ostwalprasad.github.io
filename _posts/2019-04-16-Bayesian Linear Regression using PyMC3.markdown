@@ -11,7 +11,7 @@ tags:
 layout: post
 comments: true
 description: Bayesian Linear Regression using PyMC3
-author: Prasad Ostwal
+author: Rasik Kane
 ---
 
 ### Introduction

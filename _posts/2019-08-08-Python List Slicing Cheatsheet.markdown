@@ -12,7 +12,7 @@ tags:
 layout: post
 comments: true
 description: Collection of List slicing patterns for Python
-author: Prasad Ostwal
+author: Rasik Kane
 ---
 
 <p align="center">Collection of List slicing patterns for Python </p>

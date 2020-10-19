@@ -12,7 +12,7 @@ tags:
 layout: post
 comments: true
 description: 'Robust Regression models using scikit-learn '
-author: Prasad Ostwal
+author: Rasik Kane
 ---
 
 ## Motivation

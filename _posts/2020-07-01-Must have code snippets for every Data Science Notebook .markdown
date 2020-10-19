@@ -12,7 +12,7 @@ tags:
 layout: post
 comments: true
 description: Must have code snippets for every Data Science Notebook
-author: Prasad Ostwal
+author: Rasik Kane
 ---
 
 I've been using Jupyter notebooks for quite a while and everytime I create a new notebook I have to write same 10-15 lines of *bare minimum* code with some visualization snippets that are mostly needed, so why not write them at once and use everytime? 

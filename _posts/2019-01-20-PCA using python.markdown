@@ -1,4 +1,4 @@
-<!-- 
+
 ---
 title: 'Principal Component Analysis Visualization '
 date: 2019-01-20 14:41:57 Z
@@ -12,10 +12,10 @@ tags:
 layout: post
 comments: true
 description: 'Principal Component Analysis Visualizations using Python '
-author: Prasad Ostwal
+author: Rasik Kane
 ---
 
-## Introduction
+<!-- ## Introduction
 
 PCA is  dimension reduction technique which takes set of possibly correlated variables and tranforms into linearly uncorrelated principal components. It is used to emphasize variations and bring out strong patterns in a dataset.
 
@@ -451,6 +451,6 @@ You can find above Jupyter notebook [here](https://github.com/ostwalprasad/ostwa
 * [https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c](https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c)
 * [https://blog.bioturing.com/2018/06/18/how-to-read-pca-biplots-and-scree-plots/](https://blog.bioturing.com/2018/06/18/how-to-read-pca-biplots-and-scree-plots/)
 * [https://en.wikipedia.org/wiki/Principal_component_analysis](https://en.wikipedia.org/wiki/Principal_component_analysis)
-* [https://medium.com/@aptrishu/understanding-principle-component-analysis-e32be0253ef0](https://medium.com/@aptrishu/understanding-principle-component-analysis-e32be0253ef0)
+* [https://medium.com/@aptrishu/understanding-principle-component-analysis-e32be0253ef0](https://medium.com/@aptrishu/understanding-principle-component-analysis-e32be0253ef0) -->
 
- -->
+
