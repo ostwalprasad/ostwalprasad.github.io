@@ -20,7 +20,7 @@ I am enjoying my of Data Science and Machine Learning jorney during my Masters i
 Study of History and trekking is joy for me. I have authored a couple of one act plays in Marathi and love to read good plays. 
 
 <p class="message">
- *I am actively looking for job opportunities as Data Analyst, Machine Learning Engineer*<br />
+ <b>I am actively looking for job opportunities as Data Analyst, Machine Learning Engineer<b>
 </p>
 
 Connect with me on [Linkedin](https://www.linkedin.com/in/kanerasik/) or at [rasik.kane@gmail.com](mailto:rasik.kane@gmail.com)
