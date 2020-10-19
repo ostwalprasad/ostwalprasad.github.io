@@ -1,6 +1,6 @@
 ---
 title: Polynomial regression using statsmodel
-date: 2019-01-06 07:38:24 Z
+date: 2020-01-06 07:38:24 Z
 categories:
 - machine-learning
 tags:

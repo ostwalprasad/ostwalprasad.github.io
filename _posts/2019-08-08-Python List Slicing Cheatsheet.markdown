@@ -1,3 +1,4 @@
+<!-- 
 ---
 title: Python List Slicing Cheatsheet
 date: 2019-08-08 13:30:45 Z
@@ -97,4 +98,4 @@ ___
 If you have any more patterns, ideas or suggestions, please share.
 
 
-You can fork/start this at [https://github.com/ostwalprasad/PythonListSlicingCheatsheet](https://github.com/ostwalprasad/PythonListSlicingCheatsheet)
+You can fork/start this at [https://github.com/ostwalprasad/PythonListSlicingCheatsheet](https://github.com/ostwalprasad/PythonListSlicingCheatsheet) -->

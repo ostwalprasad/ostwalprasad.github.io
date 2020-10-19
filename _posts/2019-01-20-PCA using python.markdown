@@ -1,3 +1,4 @@
+<!-- 
 ---
 title: 'Principal Component Analysis Visualization '
 date: 2019-01-20 14:41:57 Z
@@ -452,4 +453,4 @@ You can find above Jupyter notebook [here](https://github.com/ostwalprasad/ostwa
 * [https://en.wikipedia.org/wiki/Principal_component_analysis](https://en.wikipedia.org/wiki/Principal_component_analysis)
 * [https://medium.com/@aptrishu/understanding-principle-component-analysis-e32be0253ef0](https://medium.com/@aptrishu/understanding-principle-component-analysis-e32be0253ef0)
 
-
+ -->

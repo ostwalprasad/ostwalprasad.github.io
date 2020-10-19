@@ -1,3 +1,4 @@
+<!-- 
 ---
 title: 'Bayesian Linear Regression using PyMC3 '
 date: 2019-04-16 18:28:43 Z
@@ -421,4 +422,4 @@ plt.show()
 
 You can find jupyter notebook [here](https://github.com/ostwalprasad/ostwalprasad.github.io/blob/master/jupyterbooks/2019-04-17-Bayesian Linear Regression using PyMC3.ipynb)
 
-
+ -->
