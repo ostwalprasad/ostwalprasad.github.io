@@ -1,6 +1,6 @@
 ---
 title: Data Preprocessing and descritization using scikit-learn and pandas
-date: 2020-01-06 07:38:24 Z
+date: 2020-06-10 07:38:24 Z
 categories:
 - machine-learning
 tags:
