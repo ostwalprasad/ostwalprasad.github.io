@@ -11,12 +11,12 @@ layout: page
  I learned it from Transistors. 
 </p>
 
-I enjoyed public speaking and connecting with people. 'Internet of *THINGS*' allowed me to interconnect  micro-computers and devices.
+I enjoyed public speaking and connecting with people as kid. 'Internet of *THINGS*' allowed me to interconnect  micro-computers and devices. <br />
 As Sherlock Holmes says - *Data Data Data... I need DATA*. Same is true with IoT. I decided to focus on data analytics to understand how insights are drawn from "OUR ENTIRE WORLD" and use it for Wise business decisions, Energy efficient buildings, Good Linkedin feeds and what not.
 
 I am enjoying my of Data Science and Machine Learning jorney during my Masters in Compter Science at University College Dublin.
 <br /> 
-<br /> 
+
 Study of History and trekking is joy for me. I have authored a couple of one act plays in Marathi and love to read good plays. 
 
 <p class="message">
