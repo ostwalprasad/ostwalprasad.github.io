@@ -9,9 +9,7 @@ Use Iframely for generating iframe from Projects posts:  Paste Projects link on 
 https://iframely.com/
 -->
 
-<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 141.4214%;"><iframe src="https://drive.google.com/file/d/0B-onQ13l4JsHRmpwUklBeGVVdk0/preview?usp=embed_googleplus" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen></iframe></div>
+<b>Unified IoT Ecosystem</b>
+<script async src="https://static.medium.com/embed.js"></script><a class="m-story" href="https://medium.com/@rasik.kane/unified-iot-ecosystem-539bb3a41d87">Unified IOT ecosystem</a>
 
-<b>Demonstration</b>
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=kVgWxdBe9uk&index=1&list=PLEihHgy4xh477Ln6p4vE6mKr-FAHB5a-u">
-</iframe>
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/kVgWxdBe9uk?rel=0" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media; accelerometer; clipboard-write; gyroscope; picture-in-picture"></iframe></div>
