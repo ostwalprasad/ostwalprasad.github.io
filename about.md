@@ -17,7 +17,7 @@ As Sherlock Holmes says - *Data Data Data... I need DATA*. Same is true with IoT
 I am enjoying my of Data Science and Machine Learning jorney during my Masters in Compter Science at University College Dublin.
 <br /> 
 
-Study of History and trekking is joy for me. I have authored a couple of one act plays in Marathi and love to read good plays. 
+Trekking and Reading History is joy for me. I have authored a couple of one act plays in Marathi and love to read good plays. 
 
 <p class="message">
  <b>I am actively looking for job opportunities as Data Analyst, Machine Learning Engineer</b>
