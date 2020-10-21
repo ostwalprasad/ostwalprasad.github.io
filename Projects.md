@@ -1,6 +1,6 @@
 ---
 title: Projects
-permalink: "/medium/"
+permalink: "/projects/"
 layout: page
 ---
 
