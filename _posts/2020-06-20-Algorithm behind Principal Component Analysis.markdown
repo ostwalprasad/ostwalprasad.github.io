@@ -1,7 +1,7 @@
 
 ---
 title: Algorithm behind Principal Component Analysis
-date: 2019-01-20 14:41:57 Z
+date: 2020-06-20 14:41:57 Z
 categories:
 - machine-learning
 tags:
