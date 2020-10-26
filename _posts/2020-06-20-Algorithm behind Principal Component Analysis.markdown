@@ -11,7 +11,7 @@ tags:
 - PCA
 layout: post
 comments: true
-description: 'Principal Component Analysis Visualizations using Python '
+description: Principal Component Analysis Visualizations using Python
 author: Rasik Kane
 ---
 ### Motive behind Data pre-processing
