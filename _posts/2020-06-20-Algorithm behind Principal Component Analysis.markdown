@@ -1,6 +1,6 @@
 
 ---
-title: 'Algorithm behind Principal Component Analysis'
+title: Algorithm behind Principal Component Analysis
 date: 2019-01-20 14:41:57 Z
 categories:
 - machine-learning
@@ -14,6 +14,7 @@ comments: true
 description: Principal Component Analysis Visualizations using Python
 author: Rasik Kane
 ---
+
 ### Motive behind Data pre-processing
 Motive behind Data Processing or Mining is obtaining data and process it to create models for analysis. Insights obtained from these models support decision-making process. Before modelling, incomplete data as well as data which does not contribute towards analysis are pre-processed using: 
 * Normalization
