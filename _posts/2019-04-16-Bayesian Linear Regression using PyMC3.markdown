@@ -1,12 +1,12 @@
 ---
 title: 'Bayesian Linear Regression using PyMC3 '
-date: 2019-04-16 18:28:43 Z
+date: {}
 categories:
-- machine-learning
+  - machine-learning
 tags:
-- machine learning
-- bayesian regression
-- PyMC3
+  - machine learning
+  - bayesian regression
+  - PyMC3
 layout: post
 comments: true
 description: Bayesian Linear Regression using PyMC3
@@ -27,6 +27,7 @@ $$ y = \alpha\ + \beta\ *x $$
 Equation says, there's a linear relationship between variable $x$ and $y$. Slope is controlled by $ \beta\ $ and intercept tells about value of $y$ when $x=0$ . Methods like Ordinary Least Squares, optimize the parameters to minimize the error between observed $y$ and predicted $y$. These methods only return single best value for parameters.
   
   
+![lofoten.jpeg]({{site.baseurl}}/_posts/lofoten.jpeg)
 
 <img src="/images/p4/linear.png" width="300" class="center" />
 Image credits: Wikipedia
@@ -420,5 +421,3 @@ plt.show()
 ### Source
 
 You can find jupyter notebook [here](https://github.com/ostwalprasad/ostwalprasad.github.io/blob/master/jupyterbooks/2019-04-17-Bayesian Linear Regression using PyMC3.ipynb)
-
-
